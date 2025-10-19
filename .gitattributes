@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+*.ext filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+=======
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.ext filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 1b7c2037e5658086dc8ac3552458975c15a13d51
